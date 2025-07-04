@@ -28,9 +28,24 @@
 
 
 <h3 align="center">🚀 My Skills</h3>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,js,css,html,nodejs,express,fastify,squlize,mongodb,git,redux,sass,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" />
+  <img src="https://skillicons.dev/icons?i=sass" alt="Sass" width="40" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="40" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" />
+  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="40" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" />
+  <img src="https://skillicons.dev/icons?i=express" alt="Express" width="40" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" />
 </p>
+
+
 
 </table>
 
