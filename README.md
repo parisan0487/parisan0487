@@ -29,7 +29,7 @@
 
 <h3 align="center">🚀 My Skills</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,js,css,html,nodejs,express,mongodb,git,redux,sass,tailwind" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,js,css,html,nodejs,express,fastify,squlize,mongodb,git,redux,sass,tailwind" />
 </p>
 
 </table>
