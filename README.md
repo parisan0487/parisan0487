@@ -30,20 +30,22 @@
 <h3 align="center">🚀 My Skills</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" />
-  <img src="https://skillicons.dev/icons?i=sass" alt="Sass" width="40" />
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="40" />
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" />
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" />
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" />
-  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="40" />
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" />
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" />
-  <img src="https://skillicons.dev/icons?i=express" alt="Express" width="40" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" />
+  <img src="https://skillicons.dev/icons?i=html" width="40" />
+  <img src="https://skillicons.dev/icons?i=css" width="40" />
+  <img src="https://skillicons.dev/icons?i=sass" width="40" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="40" />
+  <img src="https://skillicons.dev/icons?i=js" width="40" />
+  <img src="https://skillicons.dev/icons?i=react" width="40" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="40" />
+  <img src="https://skillicons.dev/icons?i=typescript" width="40" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="40" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="40" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="40" />
+  <img src="https://skillicons.dev/icons?i=express" width="40" />
+  <img src="https://cdn.simpleicons.org/fastify/000000" alt="Fastify" width="40" />
+  <img src="https://skillicons.dev/icons?i=git" width="40" />
 </p>
+
 
 
 
